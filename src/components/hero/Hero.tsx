@@ -50,13 +50,20 @@ const Hero: React.FC = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 items-center justify-center lg:justify-start">
-              <ScrollButton 
-                targetId="contact"
-                className="glow-button font-semibold px-8 py-6 text-lg inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2"
-                ariaLabel="Scroll to contact section"
+              <Button
+                className="glow-button font-semibold px-8 py-6 text-lg"
+                asChild
               >
-                Get In Touch
-              </ScrollButton>
+                <a
+                  href={personalInfo.social.github.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="GitHub Profile"
+                >
+                  <Github className="mr-2 h-5 w-5" />
+                  GitHub
+                </a>
+              </Button>
               
               <Button 
                 variant="outline" 
@@ -76,26 +83,17 @@ const Hero: React.FC = () => {
           </div>
 
           {/* Social Links */}
-          <div className="flex items-center justify-center lg:justify-start space-x-6 pt-4">
-            <a 
-              href={personalInfo.social.github.url}
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-muted-foreground hover:text-primary transition-all duration-300 hover:scale-125"
-              aria-label="GitHub Profile"
-            >
-              <Github size={24} />
-            </a>
-            {contactEmail && (
-              <a 
+          {contactEmail && (
+            <div className="flex items-center justify-center lg:justify-start space-x-6 pt-4">
+              <a
                 href={contactEmail.href}
                 className="text-muted-foreground hover:text-primary transition-all duration-300 hover:scale-125"
                 aria-label="Email Contact"
               >
                 <Mail size={24} />
               </a>
-            )}
-          </div>
+            </div>
+          )}
         </div>
 
         {/* Profile Image */}

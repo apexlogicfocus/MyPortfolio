@@ -12,7 +12,7 @@ const ContactInfo: React.FC = () => {
           Ready to work together?
         </p>
         <a 
-          href={contactEmail ? contactEmail.href : '#contact'}
+          href={contactEmail ? contactEmail.href : '#'}
           className="block text-sm md:text-base text-primary hover:text-accent transition-colors duration-200 font-medium"
         >
           {contactEmail ? contactEmail.display : 'Send me a message'}

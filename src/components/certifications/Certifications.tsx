@@ -1,6 +1,5 @@
 // Server Component - No 'use client' directive for SEO benefits
 import React from 'react';
-import CallToAction from './CallToAction';
 import BadgeSlider from './BadgeSlider';
 import personalInfo from '@/data/personal-info.json';
 
@@ -19,8 +18,6 @@ const Certifications: React.FC = () => {
 
         <BadgeSlider certifications={personalInfo.certifications} />
 
-        {/* Call to Action */}
-        <CallToAction />
       </div>
     </section>
   );

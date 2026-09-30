@@ -2,7 +2,6 @@
 import React from 'react';
 import ProjectFilter from './ProjectFilter';
 import ProjectCard from './ProjectCard';
-import CallToAction from './CallToAction';
 import personalInfo from '@/data/personal-info.json';
 
 interface Project {
@@ -58,8 +57,6 @@ const Projects: React.FC = () => {
           ))}
         </div>
 
-        {/* Call to Action */}
-        <CallToAction />
       </div>
     </section>
   );

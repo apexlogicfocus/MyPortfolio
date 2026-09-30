@@ -279,6 +279,28 @@
   ],
   "projects": [
     {
+      "id": 9,
+      "title": "AgentRunner",
+      "subtitle": "AI Workflow Builder · GBD Software as a Service Ltd · 2024",
+      "description": "Cloud SaaS for building AI apps with visual prompt engineering: a node-based editor to chain prompts and APIs, connections to OpenAI, Claude and LLaMA, prompt versioning across dev/test/prod, API access to prompts and chains, run logs and performance monitoring, and team roles with 2FA.",
+      "technologies": [
+        "LLM Integration",
+        "Prompt Engineering",
+        "Visual Workflow Builder",
+        "AI Agents",
+        "SaaS"
+      ],
+      "liveUrl": "https://agentrunner.com/",
+      "featured": true,
+      "categories": [
+        "SaaS",
+        "AI/ML"
+      ],
+      "image": "/project-images/agentrunner.png",
+      "status": "Live",
+      "priority": 1
+    },
+    {
       "id": 1,
       "title": "Mi Tienda Center",
       "subtitle": "Inventory & Sales App · Alpha Victoria Studios · 2023",
@@ -297,7 +319,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mitiendacenter.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 1
+      "priority": 2
     },
     {
       "id": 2,
@@ -318,7 +340,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.harvesttrends.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 2
+      "priority": 3
     },
     {
       "id": 3,
@@ -338,7 +360,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flyapollo.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 3
+      "priority": 4
     },
     {
       "id": 4,
@@ -358,7 +380,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsoniavegaoficial.com.co%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 4
+      "priority": 5
     },
     {
       "id": 5,
@@ -378,7 +400,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpuntadiamantehotel.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 5
+      "priority": 6
     },
     {
       "id": 6,
@@ -398,7 +420,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Faquaspapuntadiamante.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 6
+      "priority": 7
     },
     {
       "id": 7,
@@ -417,7 +439,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhotelcastilloresort.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 7
+      "priority": 8
     },
     {
       "id": 8,
@@ -436,7 +458,7 @@
       ],
       "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.alfredocollisionrepair.com%2F?w=1280&h=720",
       "status": "Live",
-      "priority": 8
+      "priority": 9
     }
   ],
   "publications": [

@@ -5,7 +5,6 @@ import Skills from '@/components/skills';
 import Experience from '@/components/experience';
 import Projects from '@/components/projects';
 import Certifications from '@/components/certifications';
-import Contact from '@/components/contact';
 import Footer from '@/components/footer';
 
 const HomePage: React.FC = () => {
@@ -18,7 +17,6 @@ const HomePage: React.FC = () => {
       <Experience />
       <Projects />
       <Certifications />
-      <Contact />
       <Footer />
     </div>
   );
