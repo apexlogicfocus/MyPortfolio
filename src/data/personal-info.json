@@ -1,0 +1,626 @@
+{
+  "personal": {
+    "name": "Cory Rash",
+    "nickname": "ApexLogic",
+    "title": "Senior AI Engineer | Full Stack Developer",
+    "company": "Freelance",
+    "location": "Gulfport, MS, USA",
+    "tagline": "Senior AI Engineer & Full Stack Developer",
+    "bio": "I build multi-tenant SaaS platforms, AI applications and MVPs for startups and growing companies — taking products from idea to production with architecture that stays easy to maintain, scale and improve.",
+    "closingBio": "Ready to collaborate on something extraordinary? I'm always excited to connect with fellow innovators, explore cutting-edge projects, and push the boundaries of what's possible with technology. Let's build the future together.",
+    "story": [
+      "Building a SaaS product or AI application is more than writing code. The early architecture decisions can determine how difficult the product becomes to maintain, scale and improve later.",
+      "I'm a Senior AI Engineer and Full Stack Developer with 10+ years of experience building SaaS platforms, business applications, automation systems and MVPs for startups and growing companies.",
+      "I work across the stack, with strong experience in Python, Node.js, PHP, React, PostgreSQL, APIs, Azure, cloud architecture and third-party integrations. I can take ownership of the technical side of a product from database and API design through frontend development, AI integration, deployment and ongoing improvements.",
+      "A major part of my work is building multi-tenant SaaS applications. I design systems around proper tenant isolation, user roles and permissions, scalable data models, authentication, integrations, background processing and the infrastructure needed to support multiple customers without turning the codebase into a maintenance problem.",
+      "I also build practical AI functionality using LLMs, RAG, AI agents, document processing, intelligent search and workflow automation. My approach is simple: AI should solve a specific product or business problem and fit naturally into the existing workflow.",
+      "I enjoy working directly with founders, CTOs and product teams, especially when the requirements are still evolving. I can help define the technical approach, make architecture decisions and then actually build the system rather than stopping at documentation or high-level recommendations.",
+      "Whether you're starting an MVP, launching a multi-tenant SaaS product, or adding AI to an existing application, I can help take it from idea to production."
+    ],
+    "profileImage": "/cory-profile.jpg"
+  },
+  "stats": {
+    "projects": "200+",
+    "yearsExperience": "10+",
+    "technologiesMastered": "30+"
+  },
+  "social": {
+    "github": {
+      "url": "https://github.com/apexlogicfocus",
+      "username": "apexlogicfocus"
+    },
+    "resume": "https://drive.google.com/file/d/1jLx2f8G4wXVM3GseZpWFRD6yQaMaW9Rs/view?usp=sharing"
+  },
+  "skills": {
+    "languages": [
+      {
+        "name": "Python",
+        "experience": "5+ years",
+        "context": "AI/ML, automation, APIs",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "experience": "3+ years",
+        "context": "Full-stack, React, Node.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "experience": "2+ years",
+        "context": "Enterprise React/Next.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "Java",
+        "experience": "1+ year",
+        "context": "Spring Boot, enterprise",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "C",
+        "experience": "Academic",
+        "context": "Systems, algorithms",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      },
+      {
+        "name": "SQL",
+        "experience": "2+ years",
+        "context": "Database design, queries",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      }
+    ],
+    "ai_ml": [
+      {
+        "name": "HuggingFace",
+        "experience": "1+ year",
+        "context": "Multimodal AI, fine-tuning",
+        "category": "AI/ML",
+        "icon": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+      },
+      {
+        "name": "Langchain",
+        "experience": "2+ year",
+        "context": "RAG systems, AI agents",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/langchain.svg"
+      },
+      {
+        "name": "OpenAI SDK",
+        "experience": "1+ year",
+        "context": "GPT integration, automation",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/openai.svg"
+      },
+      {
+        "name": "Google ADK",
+        "experience": "Current",
+        "context": "Enterprise AI solutions",
+        "category": "AI/ML",
+        "icon": "https://google.github.io/adk-docs/assets/agent-development-kit.png"
+      },
+      {
+        "name": "Agents SDK",
+        "experience": "Current",
+        "context": "AI agent development",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "Arize AI",
+        "experience": "Current",
+        "context": "ML monitoring, tracking",
+        "category": "AI/ML",
+        "icon": "https://cdn.pagerduty.com/wp-content/uploads/2022/08/arize-logo-pink-icon-black-text.svg"
+      }
+    ],
+    "backend": [
+      {
+        "name": "FastAPI",
+        "experience": "2+ year",
+        "context": "High-performance APIs",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "experience": "3+ years",
+        "context": "RESTful APIs, microservices",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "Django",
+        "experience": "1+ year",
+        "context": "Web apps, admin panels",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+      },
+      {
+        "name": "Flask",
+        "experience": "1+ year",
+        "context": "Lightweight APIs",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+      },
+      {
+        "name": "Spring Boot",
+        "experience": "1+ year",
+        "context": "Enterprise Java apps",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "React.js",
+        "experience": "3+ years",
+        "context": "MicroFrontends, SPAs",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Next.js",
+        "experience": "1+ year",
+        "context": "SSG/SSR applications",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "ThreeJS",
+        "experience": "Project-based",
+        "context": "3D visualizations",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+      },
+      {
+        "name": "HTML/CSS",
+        "experience": "4+ years",
+        "context": "Responsive design",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      }
+    ],
+    "cloud_databases": [
+      {
+        "name": "Microsoft Azure",
+        "experience": "Project-based",
+        "context": "Cloud deployment, Logic Apps",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "experience": "Project-based",
+        "context": "Pod deployment, clusters",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+      },
+      {
+        "name": "Docker",
+        "experience": "2+ years",
+        "context": "Containerization",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      },
+      {
+        "name": "MongoDB",
+        "experience": "2+ year",
+        "context": "NoSQL databases",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      },
+      {
+        "name": "Redis",
+        "experience": "1+ year",
+        "context": "Caching, sessions",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      },
+      {
+        "name": "Linux Systems",
+        "experience": "1+ years",
+        "context": "Terminal commands, system administration",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Lead Full Stack Engineer",
+      "company": "Alpha Victoria Studios",
+      "location": "",
+      "logo": "/professional-experience-logos/alpha-victoria-studios.png",
+      "duration": "Mar 2023 – Feb 2026",
+      "description": "Led custom web applications, mobile iOS/Android apps, CRM systems, booking systems, inventory and sales applications, Shopify solutions and third-party integrations.",
+      "achievements": [],
+      "technologies": []
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "Harvest Trends",
+      "location": "",
+      "logo": "/professional-experience-logos/harvest-trends.jpg",
+      "duration": "Aug 2018 – Feb 2022",
+      "description": "Developed cloud-based platforms for casino/player development and direct marketing.",
+      "achievements": [],
+      "technologies": []
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "company": "PPS Plus Software",
+      "location": "",
+      "logo": "",
+      "duration": "Feb 2015 – Oct 2018",
+      "description": "",
+      "achievements": [],
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science (BCompSc), Computer Engineering",
+      "institution": "William Carey University"
+    },
+    {
+      "degree": "Computer Science",
+      "institution": "Mississippi Coding Academy"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mi Tienda Center",
+      "subtitle": "Inventory & Sales App · Alpha Victoria Studios · 2023",
+      "description": "Inventory and sales management app for small retailers — stock control, sales tracking and a 14-day free trial, built to run lean on mobile data.",
+      "technologies": [
+        "Inventory Management",
+        "Sales Tracking",
+        "Mobile App",
+        "SaaS"
+      ],
+      "liveUrl": "https://www.mitiendacenter.com/",
+      "featured": true,
+      "categories": [
+        "SaaS",
+        "E-commerce"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mitiendacenter.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "title": "Harvest Trends",
+      "subtitle": "Power Host CRM & Patron Trends · 2018–2022",
+      "description": "Cloud platforms for casino player development and direct marketing: a host CRM whose learning engine recommends who to call and why, plus analytics that optimize loyalty and marketing programs.",
+      "technologies": [
+        "CRM",
+        "Machine Learning",
+        "Analytics",
+        "Cloud Platform"
+      ],
+      "liveUrl": "https://www.harvesttrends.com/",
+      "featured": true,
+      "categories": [
+        "SaaS",
+        "AI/ML"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.harvesttrends.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "title": "Apollo Flight School",
+      "subtitle": "Aviation · Alpha Victoria Studios · 2024",
+      "description": "Website and lead-capture funnel for a Gulfport, MS pilot school — $99 discovery-flight booking, training program pages, blog and contact forms.",
+      "technologies": [
+        "Wix",
+        "Lead Capture",
+        "SEO",
+        "Blog"
+      ],
+      "liveUrl": "https://www.flyapollo.com/",
+      "featured": true,
+      "categories": [
+        "Aviation"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flyapollo.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "title": "Sonia Vega Oficial",
+      "subtitle": "E-commerce · Alpha Victoria Studios · 2025",
+      "description": "Shopify store for a Colombian hair-care brand — argan-oil shampoos, hair perfumes and serums with customer accounts and nationwide shipping.",
+      "technologies": [
+        "Shopify",
+        "E-commerce",
+        "Customer Accounts",
+        "Spanish"
+      ],
+      "liveUrl": "https://soniavegaoficial.com.co/",
+      "featured": false,
+      "categories": [
+        "E-commerce"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsoniavegaoficial.com.co%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 4
+    },
+    {
+      "id": 5,
+      "title": "Hotel Punta Diamante",
+      "subtitle": "Hospitality · Alpha Victoria Studios · 2024",
+      "description": "Website for a premium 108-room hotel in Bucaramanga, Colombia — rooms, events, gastronomy and spa, all in one destination site.",
+      "technologies": [
+        "WordPress",
+        "Hospitality",
+        "Events",
+        "Responsive Design"
+      ],
+      "liveUrl": "https://puntadiamantehotel.com/",
+      "featured": false,
+      "categories": [
+        "Hospitality"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpuntadiamantehotel.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 5
+    },
+    {
+      "id": 6,
+      "title": "Aqua Spa Punta Diamante",
+      "subtitle": "Wellness · Alpha Victoria Studios · 2024",
+      "description": "Spa website with appointment booking, service menu, hours and contact details for the Hotel Punta Diamante wellness center.",
+      "technologies": [
+        "WordPress",
+        "Appointment Booking",
+        "Wellness"
+      ],
+      "liveUrl": "https://aquaspapuntadiamante.com/",
+      "featured": false,
+      "categories": [
+        "Wellness",
+        "Hospitality"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Faquaspapuntadiamante.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 6
+    },
+    {
+      "id": 7,
+      "title": "Hotel Castillo Resort",
+      "subtitle": "Hospitality · Alpha Victoria Studios · 2024",
+      "description": "Resort website showcasing nature, adventure and relaxation experiences for guests planning their stay.",
+      "technologies": [
+        "Hospitality",
+        "Responsive Design",
+        "SEO"
+      ],
+      "liveUrl": "https://hotelcastilloresort.com/",
+      "featured": false,
+      "categories": [
+        "Hospitality"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhotelcastilloresort.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 7
+    },
+    {
+      "id": 8,
+      "title": "Alfredo Collision Repair",
+      "subtitle": "Auto · Alpha Victoria Studios · 2024",
+      "description": "Website for a certified auto body shop in Austin, TX — collision, hail and paintless dent repair services with free-estimate requests and local SEO.",
+      "technologies": [
+        "Wix",
+        "Local SEO",
+        "Estimate Requests"
+      ],
+      "liveUrl": "https://www.alfredocollisionrepair.com/",
+      "featured": false,
+      "categories": [
+        "Auto"
+      ],
+      "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.alfredocollisionrepair.com%2F?w=1280&h=720",
+      "status": "Live",
+      "priority": 8
+    }
+  ],
+  "publications": [
+    {
+      "title": "Foresight: Empowering Visually Impaired Individuals through Multimodal Generative AI",
+      "venue": "IEEE",
+      "doi": "10.1109/ICOCT64433.2025.11118397",
+      "url": "https://doi.org/10.1109/ICOCT64433.2025.11118397",
+      "date": "Aug 2025",
+      "description": "Research on multimodal AI systems for accessibility enhancement",
+      "category": "research"
+    },
+    {
+      "title": "AuthEZ: A Multifaceted Identity Provider Service using Facial, Voice, and In-App Authentication",
+      "venue": "IEEE",
+      "doi": "10.1109/GCAT62922.2024.10923933",
+      "url": "https://doi.org/10.1109/GCAT62922.2024.10923933",
+      "date": "Oct 2024",
+      "description": "Comprehensive study on passwordless authentication methodologies",
+      "category": "research"
+    },
+    {
+      "title": "I Vibecoded My Web Portfolio with AI — A 2025 Experiment",
+      "venue": "Medium",
+      "url": "https://medium.com/@owaisiqbal2013/i-vibecoded-my-web-portfolio-with-ai-a-2025-experiment-edcfdfc21092",
+      "date": "Jul 2025",
+      "description": "Experiment on using AI to create a web portfolio",
+      "category": "blog"
+    },
+    {
+      "title": "Production-Ready LLM Memory: Redis for Durable History and Semantic Retrieval — Part 1",
+      "venue": "Medium",
+      "url": "https://medium.com/@owaisiqbal2013/production-ready-llm-memory-redis-for-durable-history-and-semantic-retrieval-part-1-13713c21c0cb",
+      "date": "Sep 2025",
+      "description": "Part 1 of a series on building a production-ready LLM memory - Base setup and short-term memory.",
+      "category": "blog"
+    },
+    {
+      "title": "Production-Ready LLM Memory: Redis for Durable History and Semantic Retrieval — Part 2",
+      "venue": "Medium",
+      "url": "https://medium.com/@owaisiqbal2013/production-ready-llm-memory-redis-for-durable-history-and-semantic-retrieval-part-2-b244380618d0",
+      "date": "Sep 2025",
+      "description": "Part 2 of a series on building a production-ready LLM memory - Long-term memory with redis and semantic retrieval.",
+      "category": "blog"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Lowe's Q2 Changemaker Award",
+      "organization": "Lowe's Companies, Inc.",
+      "year": "2025",
+      "description": "Awarded for bringing AI and Dev Efficiency to life and excelling in actions.",
+      "category": "corporate"
+    },
+    {
+      "title": "Lowe's Individual Excellence Award",
+      "organization": "Lowe's Companies, Inc.",
+      "year": "2025",
+      "description": "Awarded for bringing the Lowe's core values to life and excelling in actions. Superior sense of ownership and achieving against odds.",
+      "category": "corporate",
+      "url": "https://drive.google.com/file/d/1yrIC9wy2_VlhKVsrggzauwpuI17U6bS4/view?usp=drivesdk&usp=embed_facebook"
+    },
+    {
+      "title": "Lowe's Spot Award",
+      "organization": "Lowe's Companies, Inc.",
+      "year": "2024",
+      "description": "Immediate recognition for taking action at the right time and going all out in getting the job done.",
+      "category": "corporate",
+      "url": "https://drive.google.com/file/d/1u4wFx8khOBt7NiXoSHrRgmUTfEmheq4W/view?usp=drivesdk&usp=embed_facebook"
+    },
+    {
+      "title": "Pradarshana 2024 - 1st Place",
+      "organization": "Ramaiah Institute of Technology",
+      "year": "2024",
+      "description": "First place at Final Year innovation exhibition for Foresight project",
+      "category": "competitive",
+      "url": "https://drive.google.com/file/d/1PRPSAcT3uvEDA2iZMDprFA1Jv5zae3yd/view?usp=sharing&usp=embed_facebook"
+    },
+    {
+      "title": "Campus Research Certificate",
+      "organization": "Unisys India",
+      "year": "2024",
+      "description": "Recognition for Foresight: Accessibility Accelerator Using Multimodal Generative AI",
+      "category": "academic",
+      "url": "https://drive.google.com/file/d/1ovpyEYgLy3r6h-vEP-QZK_MA9NcHFGBH/view?usp=drivesdk&usp=embed_facebook"
+    },
+    {
+      "title": "Reva Hack 2021 - 2nd Place",
+      "organization": "Reva University",
+      "year": "2021",
+      "description": "Second place for Myxable, an open-source multiformat bulk file conversion platform",
+      "category": "competitive",
+      "url": "https://drive.google.com/file/d/1qvHmLXbMzdKqenyvgwg7bVSxq9u_MIQj/view?usp=sharing&usp=embed_facebook"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "AWS Certified Generative AI Developer – Professional",
+      "issuer": "Amazon Web Services",
+      "badge": "/certification-badges/aws-generative-ai-developer-professional.png",
+      "verifyUrl": "",
+      "skills": [
+        "Generative AI",
+        "LLMs",
+        "RAG",
+        "AWS"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GitHub Agentic AI Developer",
+      "issuer": "GitHub",
+      "badge": "/certification-badges/github-agentic-ai-developer.png",
+      "verifyUrl": "",
+      "skills": [
+        "AI Agents",
+        "Agentic Workflows",
+        "GitHub"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Everlaw Certified Project Manager",
+      "issuer": "Everlaw",
+      "badge": "/certification-badges/everlaw-project-manager.png",
+      "verifyUrl": "",
+      "skills": [
+        "Project Management",
+        "Document Review"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "PCET – Certified Entry-Level Tester with Python",
+      "issuer": "OpenEDG Python Institute",
+      "badge": "/certification-badges/pcet-python-institute.png",
+      "verifyUrl": "",
+      "skills": [
+        "Python",
+        "Software Testing"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "JSE – Certified Associate Web Developer (WDA-41-01)",
+      "issuer": "OpenEDG JS Institute",
+      "badge": "/certification-badges/jse-certified-associate-web-developer.png",
+      "verifyUrl": "",
+      "skills": [
+        "JavaScript",
+        "Web Development"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Cory Rash - Senior AI Engineer & Full Stack Developer",
+    "description": "Senior AI Engineer and Full Stack Developer with 10+ years of experience building multi-tenant SaaS platforms, AI applications, automation systems and MVPs. Python, Node.js, React, Next.js, PostgreSQL, Azure.",
+    "keywords": [
+      "Cory Rash",
+      "Senior AI Engineer",
+      "Full Stack Developer",
+      "Multi-tenant SaaS",
+      "MVP Development",
+      "AI Agent Development",
+      "AI Automation",
+      "Multi-Agent Systems",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "FastAPI",
+      "React",
+      "ERP Software",
+      "Airtable",
+      "Gulfport",
+      "Mississippi",
+      "William Carey University"
+    ],
+    "ogImage": "/cory-profile.jpg",
+    "googleSiteVerification": "oNrOrBYC8Dz7PNuaUMPlYXCVWaPbmLofyH5Q9EoXg50",
+    "icon": {
+      "icon": "/web-app-manifest.png",
+      "appleTouchIcon": "/apple-touch-icon.png"
+    }
+  }
+}
